@@ -2,5 +2,5 @@ Resolusiku
 - Konsisten dalam belajar frontend (reactjs)
 - Membuat portfolio dan cv sebaik mungkin
 - Bekerja di suatu software house agar ilmunya berkembang
-- Mencoba UI/UX
 - Mencoba backend
+- Belajar framework laravel
