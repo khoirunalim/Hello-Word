@@ -1,4 +1,6 @@
 Resolusiku
-- konsisten dalam belajar frontend (reactjs)
+- Konsisten dalam belajar frontend (reactjs)
 - Membuat portfolio dan cv sebaik mungkin
-- bekerja di suatu software house agar ilmunya berkembang
+- Bekerja di suatu software house agar ilmunya berkembang
+- Mencoba UI/UX
+- Mencoba backend
