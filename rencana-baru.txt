@@ -1,3 +1,6 @@
+Rencan baruku:
+
 - belajar hal2 baru
+* belajar fundamental
 - kenal dunia backend
 - punya motor
