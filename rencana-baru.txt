@@ -2,9 +2,9 @@ Rencan baruku:
 
 - belajar hal2 baru
 * belajar fundamental
+- belajar laravel
   ^javascript
 - framework react
 - kenal dunia backend
 - punya motor
 - belajar struktur data dasar
-- belajar apa aja deh, yang penting belajar
