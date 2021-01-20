@@ -2,6 +2,7 @@ Rencan baruku:
 
 - belajar hal2 baru
 * belajar fundamental
+  ^gw mau belajar vue
 - kenal dunia backend
 - punya motor
-- belajar struktur data dasar
+- belajar laravel
