@@ -4,3 +4,4 @@ Rencan baruku:
 * belajar fundamental
 - kenal dunia backend
 - punya motor
+- belajar struktur data dasar
