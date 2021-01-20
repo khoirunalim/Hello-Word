@@ -2,6 +2,8 @@ Rencan baruku:
 
 - belajar hal2 baru
 * belajar fundamental
+  ^javascript
+- framework react
 - kenal dunia backend
 - punya motor
 - belajar struktur data dasar
